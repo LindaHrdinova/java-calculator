@@ -1,10 +1,10 @@
-package com.github.LindaHrdinova.javaCalcurator;
+package com.github.LindaHrdinova.java_calculator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JavaCalcuratorApplicationTests {
+class JavaCalculatorApplicationTests {
 
 	@Test
 	void contextLoads() {
