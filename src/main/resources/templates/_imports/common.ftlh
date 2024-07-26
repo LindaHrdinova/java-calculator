@@ -13,7 +13,9 @@
     </head>
     <body>
     <main>
-        [#nested /]
+        <div class="calculator">
+            [#nested /]
+        </div>
     </main>
     </body>
     </html>
